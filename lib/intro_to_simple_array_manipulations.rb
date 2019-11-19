@@ -57,4 +57,3 @@ end
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 exclude (Steven)
 instructors.deleted (exclude)
-
