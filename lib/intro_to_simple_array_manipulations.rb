@@ -56,4 +56,4 @@ end
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 array = "Steven"
-instructors.deleted (array)
+instructors.delete(array)
