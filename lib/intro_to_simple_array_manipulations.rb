@@ -54,6 +54,7 @@ end
   instruments.flatten
 end
 
+def (instructors, array)
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 array = "Steven"
-instructors.delete(array)
+instructors.delete(array) 
