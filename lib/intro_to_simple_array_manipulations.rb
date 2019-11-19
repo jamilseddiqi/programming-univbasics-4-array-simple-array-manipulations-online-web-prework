@@ -55,4 +55,4 @@ end
 end
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-instructors.delete ("Steven")
+instructors.delete(4)
