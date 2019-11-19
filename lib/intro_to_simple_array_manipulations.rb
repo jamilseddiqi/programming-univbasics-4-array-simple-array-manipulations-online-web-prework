@@ -55,4 +55,6 @@ end
 end
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-instructors.delete("Steven")
+exclude (Steven)
+instructors.deleted (exclude)
+
